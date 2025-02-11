@@ -86,8 +86,12 @@ This repository contains the following key files:
    ```bash
    pip install h2o pandas numpy jupyter
    ```
-3. **Launch the Notebook:**
-   Open the Jupyter Notebook or Google Colab and run the cells sequentially to replicate the results.
+3. **Launch Jupyter Notebook:**
+   ```bash
+   jupyter notebook
+   ```
+   Open the `H2O_ai_Project.ipynb` notebook and run all cells sequentially.
+
 
 ## Google Colab Notebook
 You can also execute the project on Google Colab:
